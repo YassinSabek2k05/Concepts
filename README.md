@@ -1,9 +1,4 @@
-# � Concepts of Programming Languages
-
-### *CSEN601 - German University in Cairo (Spring 2025)*
-
-This repository explores different programming paradigms—specifically **Logic Programming** (Prolog) and **Functional Programming** (Haskell)—to solve complex computational problems through the lens of language-specific strengths.
-
+# Concepts of Programming Languages
 ---
 
 ## 🧩 Milestone 1: Logic Programming (Prolog)
