@@ -1,11 +1,10 @@
 # Concepts of Programming Languages
----
 
 ## 🧩 Milestone 1: Logic Programming (Prolog)
 
 **Project:** Automated Class Scheduling System
 
-*See the `/milestone1[prolog]` directory for full documentation and knowledge base files.*
+*See the `/Prolog-Scheduler (Milestone 1)` directory for full documentation and knowledge base files.*
 
 * **Core Concept:** Constraint Satisfaction.
 * **Key Feature:** Automated clash detection and multi-student availability analysis ("Assembly Hours").
@@ -125,8 +124,8 @@ This course highlights the fundamental shift in thinking required for different 
 
 ## 📂 Project Structure
 
-* `milestone1[prolog]/`: Prolog scheduling system with KB files and predicates.
-* `milestone2[haskell]/`: Haskell railway network implementation with Dijkstra's algorithm.
+* `Prolog-Scheduler (Milestone 1)/`: Prolog scheduling system with KB files and predicates.
+* `Haskell-Project (Milestone 2)/`: Haskell railway network implementation with Dijkstra's algorithm.
 * `README.md`: This comprehensive documentation file.
 
 ---
