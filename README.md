@@ -136,15 +136,7 @@ This course highlights the fundamental shift in thinking required for different 
 
 **Milestone 2 (Haskell):** Strong emphasis on **type safety** and **immutability**, with careful management of the priority queue to maintain the ascending order invariant throughout Dijkstra's algorithm execution.
 
----
 
-## 📊 Your GitHub Profile Snippet
-
-Now that you have completed both, your profile snippet should look even more impressive:
-
-* **[Concepts of Programming Languages](https://github.com/YassinSabek2k05/Concepts)**
-* *Description:* A dual-paradigm study. Includes a **Prolog** constraint-solver for university scheduling and a **Haskell** implementation of Dijkstra's algorithm for railway cost optimization.
-* *Tech:* Haskell, Prolog, Functional Programming, Graph Theory.
 
 
 
